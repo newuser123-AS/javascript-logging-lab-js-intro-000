@@ -1,1 +1,1 @@
-console.log("ENTER FEW TEXTS HERE")
+console.warn("ENTER FEW TEXTS HERE")
